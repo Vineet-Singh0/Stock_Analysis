@@ -9,16 +9,6 @@ A comprehensive data analysis project that dives deep into the stock price movem
 This project involves analyzing historical stock data of JSW Steel to uncover trends and patterns in the stock's behavior. The aim is to provide both a statistical and visual understanding of how the stock has performed over time and what indicators like Moving Averages and RSI suggest about its movements.
 
 ---
-
-## 🎥 Demo Preview
-
-![JSW Steel Demo](images/demo_chart.png)  
-*Example: Trendline and Moving Average Visualization*
-
-> 📌 *Make sure to place your image inside a folder named `images/` in the repo directory.*
-
----
-
 ## 🚀 Features
 
 - Interactive time-series analysis
@@ -52,21 +42,14 @@ This project involves analyzing historical stock data of JSW Steel to uncover tr
 
 ## 🖼️ Visual Snapshots
 
-### 🔹 Closing Price with Moving Averages
-![Closing Price with MA](images/moving_avg.png)
+### 🔹 Closing Price vs Time
+!(images/moving_avg.png)
 
-### 🔹 RSI Chart
-![RSI Chart](images/rsi_plot.png)
+### 🔹 Moving Over Crossover
+!(images/2nd.png)
 
-### 🔹 Bollinger Bands
-![Bollinger Bands](images/bollinger_bands.png)
-
----
-
-📂 *Place all images in a folder named `images` within the root directory of your GitHub repo.*
+### 🔹 30 Days Rolling Volatility
+!(images/3rd.png)
 
 ---
 
-If you’d like, I can now extract 2-3 plots from the notebook and send you PNG files for upload — just say **"extract plots"**, or upload your preferred images if you already have them.
-
-Would you like to proceed with **plot extraction** from your `.ipynb` file now?
