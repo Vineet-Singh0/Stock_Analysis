@@ -43,13 +43,13 @@ This project involves analyzing historical stock data of JSW Steel to uncover tr
 ## 🖼️ Visual Snapshots
 
 ### 🔹 Closing Price vs Time
-(images/moving_avg.png)
+![Closing Price vs Time](images/moving_avg.png)
 
 ### 🔹 Moving Over Crossover
-(images/2nd.png)
+![Moving Over Crossover](images/2nd.png)
 
 ### 🔹 30 Days Rolling Volatility
-(images/3rd.png)
+![30 Days Rolling Volatility](images/3rd.png)
 
 ---
 
