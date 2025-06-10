@@ -26,7 +26,7 @@ This project involves analyzing historical stock data of JSW Steel to uncover tr
 - Pandas & NumPy
 - Matplotlib & Seaborn
 - Plotly
-- yfinance (Yahoo Finance API)
+- Pyspark
 - Jupyter Notebook
 
 ---
